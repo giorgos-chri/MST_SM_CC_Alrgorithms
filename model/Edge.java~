@@ -7,8 +7,8 @@ package model;
 import java.util.Comparator;
 
 /**
- * @author Giorgos Christakis
- * @email giorgos_chri@hotmail.com
+ *
+ * @author Giorgos
  */
 public class Edge implements Comparator{
     private int from;

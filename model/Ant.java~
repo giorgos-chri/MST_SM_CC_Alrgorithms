@@ -5,8 +5,8 @@
 package model;
 
 /**
- * @author Giorgos Christakis
- * @email giorgos_chri@hotmail.com
+ *
+ * @author Giorgos
  */
 public abstract class Ant implements Comparable<Ant>{
    private final int id;

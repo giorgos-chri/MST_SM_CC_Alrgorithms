@@ -5,8 +5,8 @@
 package model;
 
 /**
- * @author Giorgos Christakis
- * @email giorgos_chri@hotmail.com
+ *
+ * @author Giorgos
  */
 public class RedAnt extends Ant{
     private final int capacity;

@@ -5,8 +5,8 @@
 package model;
 
 /**
- * @author Giorgos Christakis
- * @email giorgos_chri@hotmail.com
+ *
+ * @author Giorgos
  */
 public class BlackAnt extends Ant{
     private final int[] objects;

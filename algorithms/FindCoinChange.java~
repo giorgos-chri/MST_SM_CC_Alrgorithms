@@ -7,8 +7,9 @@ import java.util.Arrays;
 //To generate a more integrated JavaDoc HTML file we must Include Private and Private Package Members!!!
 
 /**
- * @author Giorgos Christakis
- * @email giorgos_chri@hotmail.com
+ * @author Χριστάκης Γεώργιος
+ * @aem 1559
+ * @email nchrista@csd.auth.gr
  */
 public class FindCoinChange {
     /**
