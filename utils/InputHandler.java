@@ -19,6 +19,12 @@ import java.util.Random;
  * @email giorgos_chri@hotmail.com
  */
 public class InputHandler {
+
+/**
+ * Creates new input file if the second argument is 0
+ * @param filename The value of the first argument which is the name of the file where the date of the ants will be stored
+ * @param population The number of the ants that will be created for each color.
+ */
     public static void createRandomInput(String filename, int population){
         try{
             FileWriter fstream = new FileWriter(filename);
