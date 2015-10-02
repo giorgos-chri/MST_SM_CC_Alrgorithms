@@ -15,7 +15,8 @@ import java.util.Random;
 
 /**
  *
- * @author Giorgos
+ * @author Giorgos Christakis
+ * @email giorgos_chri@hotmail.com
  */
 public class InputHandler {
     public static void createRandomInput(String filename, int population){
