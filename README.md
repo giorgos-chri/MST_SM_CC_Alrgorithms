@@ -12,10 +12,10 @@ So the data has the following form:
 
 Ant Type    Coordinates    Details
 
-0(red)      0.313 0.322   1432(Capacity)
-1(black)    0.865 0.765   12 14 78 1 78(weight per seed)
-0(red)      0.465 0.54   654(Capacity)
-1(black)    0.657 0.329   12 14 78 1 147(weight per seed)
+0(red)      0.313 0.322   1432(Capacity) <br />
+1(black)    0.865 0.765   12 14 78 1 78(weight per seed) <br />
+0(red)      0.465 0.54   654(Capacity) <br />
+1(black)    0.657 0.329   12 14 78 1 147(weight per seed) <br />
 ...
 
 
