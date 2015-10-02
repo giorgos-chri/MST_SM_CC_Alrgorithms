@@ -18,7 +18,8 @@ import model.RedAnt;
 
 /**
  *
- * @author Giorgos
+ * @author Giorgos Christakis
+ * @email giorgos_chri@hotmail.com
  */
 public class Visualize extends JPanel{
     ArrayList<RedAnt> redAntsCopy = new ArrayList();
